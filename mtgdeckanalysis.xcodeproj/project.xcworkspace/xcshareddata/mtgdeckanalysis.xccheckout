@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B1B0CC9D-2212-4701-AA98-03AB43AA3720</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BC9420241E13160783953E67B23311A0E5B9A2AE</key>
+		<string>https://github.com/roecrew/mtgdeckanalysis.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>mtgdeckanalysis.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BC9420241E13160783953E67B23311A0E5B9A2AE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/roecrew/mtgdeckanalysis.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BC9420241E13160783953E67B23311A0E5B9A2AE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BC9420241E13160783953E67B23311A0E5B9A2AE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>deckanalyzer</string>
+		</dict>
+	</array>
+</dict>
+</plist>

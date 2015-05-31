@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Temple of Malady</key>
+	<dict>
+		<key>Type</key>
+		<string>Land</string>
+	</dict>
+	<key>Swamp</key>
+	<dict>
+		<key>Type</key>
+		<string>Land</string>
+	</dict>
+	<key>Forest</key>
+	<dict>
+		<key>Type</key>
+		<string>Land</string>
+	</dict>
+	<key>Infernal Tutor</key>
+	<dict>
+		<key>Type</key>
+		<string>Sorcery</string>
+		<key>Mana</key>
+		<dict/>
+	</dict>
+	<key>Thoughtseize</key>
+	<dict>
+		<key>Type</key>
+		<string>Sorcery</string>
+		<key>Mana</key>
+		<dict/>
+	</dict>
+	<key>Bile Blight</key>
+	<dict>
+		<key>Type</key>
+		<string>Instant</string>
+		<key>Mana</key>
+		<dict/>
+	</dict>
+	<key>Doom Blade</key>
+	<dict>
+		<key>Type</key>
+		<string>Instant</string>
+		<key>Mana</key>
+		<dict/>
+	</dict>
+	<key>Hero&apos;s Downfall</key>
+	<dict>
+		<key>Type</key>
+		<string>Instant</string>
+		<key>Mana</key>
+		<dict/>
+	</dict>
+	<key>Bloodghast</key>
+	<dict>
+		<key>Type</key>
+		<string>Creature</string>
+		<key>Power</key>
+		<integer>0</integer>
+		<key>Toughness</key>
+		<integer>0</integer>
+	</dict>
+	<key>Bloodsoaked Champion</key>
+	<dict>
+		<key>Type</key>
+		<string>Creature</string>
+		<key>Power</key>
+		<integer>0</integer>
+		<key>Toughness</key>
+		<integer>0</integer>
+		<key>Mana</key>
+		<dict/>
+	</dict>
+	<key>Creakwood Liege</key>
+	<dict>
+		<key>Type</key>
+		<string>Creature</string>
+		<key>Power</key>
+		<integer>0</integer>
+		<key>Toughness</key>
+		<integer>0</integer>
+		<key>Mana</key>
+		<dict/>
+	</dict>
+	<key>Desecration Demon</key>
+	<dict>
+		<key>Type</key>
+		<string>Creature</string>
+		<key>Power</key>
+		<integer>0</integer>
+		<key>Toughness</key>
+		<integer>0</integer>
+		<key>Mana</key>
+		<dict/>
+	</dict>
+	<key>Geralf&apos;s Messenger</key>
+	<dict>
+		<key>Type</key>
+		<string>Creature</string>
+		<key>Power</key>
+		<integer>0</integer>
+		<key>Toughness</key>
+		<integer>0</integer>
+		<key>Mana</key>
+		<dict/>
+	</dict>
+	<key>Kokusho, the Evening Star</key>
+	<dict>
+		<key>Type</key>
+		<string>Legendary Creature</string>
+		<key>Power</key>
+		<integer>0</integer>
+		<key>Toughness</key>
+		<integer>0</integer>
+		<key>Mana</key>
+		<dict/>
+	</dict>
+	<key>Scavenging Ooze</key>
+	<dict>
+		<key>Type</key>
+		<string>Creature</string>
+		<key>Power</key>
+		<integer>0</integer>
+		<key>Toughness</key>
+		<integer>0</integer>
+		<key>Mana</key>
+		<dict/>
+	</dict>
+	<key>Scute Mob</key>
+	<dict>
+		<key>Type</key>
+		<string>Creature</string>
+		<key>Power</key>
+		<integer>0</integer>
+		<key>Toughness</key>
+		<integer>0</integer>
+		<key>Mana</key>
+		<dict/>
+	</dict>
+	<key>Sheoldred, Whispering One</key>
+	<dict>
+		<key>Type</key>
+		<string>Legendary Creature</string>
+		<key>Power</key>
+		<integer>0</integer>
+		<key>Toughness</key>
+		<integer>0</integer>
+		<key>Mana</key>
+		<dict/>
+	</dict>
+	<key>Sylvan Caryatid</key>
+	<dict>
+		<key>Type</key>
+		<string>Creature</string>
+		<key>Power</key>
+		<integer>0</integer>
+		<key>Toughness</key>
+		<integer>0</integer>
+		<key>Mana</key>
+		<dict/>
+	</dict>
+	<key>Thrun, the Last Troll</key>
+	<dict>
+		<key>Type</key>
+		<string>Legendary Creature</string>
+		<key>Power</key>
+		<integer>0</integer>
+		<key>Toughness</key>
+		<integer>0</integer>
+		<key>Mana</key>
+		<dict/>
+	</dict>
+</dict>
+</plist>
