@@ -2,6 +2,41 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>Duress</key>
+	<dict>
+		<key>Type</key>
+		<string>Instant</string>
+	</dict>
+	<key>Sorin, Lord of Innistrad</key>
+	<dict>
+		<key>Type</key>
+		<string>Planeswalker</string>
+	</dict>
+	<key>Sarkhan Vol</key>
+	<dict>
+		<key>Type</key>
+		<string>Planeswalker</string>
+	</dict>
+	<key>Liliana Vess</key>
+	<dict>
+		<key>Type</key>
+		<string>Planeswalker</string>
+	</dict>
+	<key>Manamorphose</key>
+	<dict>
+		<key>Type</key>
+		<string>Instant</string>
+	</dict>
+	<key>Jungle Hollow</key>
+	<dict>
+		<key>Type</key>
+		<string>Land</string>
+	</dict>
+	<key>Akroma&apos;s Memorial</key>
+	<dict>
+		<key>Type</key>
+		<string>Artifact</string>
+	</dict>
 	<key>Temple of Malady</key>
 	<dict>
 		<key>Type</key>
@@ -103,7 +138,10 @@
 		<key>Toughness</key>
 		<integer>0</integer>
 		<key>Mana</key>
-		<dict/>
+		<dict>
+			<key>Swamp</key>
+			<integer>3</integer>
+		</dict>
 	</dict>
 	<key>Kokusho, the Evening Star</key>
 	<dict>

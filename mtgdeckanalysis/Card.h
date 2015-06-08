@@ -12,8 +12,8 @@
 
 @property NSNumber *quantity;
 
-@property NSString *name;
-@property NSString *type;
+@property NSMutableString *name;
+@property NSMutableString *type;
 @property NSNumber *power;
 @property NSNumber *toughness;
 

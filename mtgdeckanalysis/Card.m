@@ -21,7 +21,7 @@
         NSMutableDictionary *root = [NSMutableDictionary dictionaryWithContentsOfFile:[[NSBundle mainBundle] pathForResource:@"card" ofType:@"plist"]];
         NSMutableDictionary *card = [root objectForKey:str];
         
-        self.name = str;
+        self.name = [str mutableCopy];
         self.quantity = [NSNumber numberWithInt:n];
         self.type = [card objectForKey:@"Type"];
         
@@ -38,9 +38,9 @@
 - (id)initWithCard:(Card *)card {
     if((self = [super init])) {
         
-        self.name = [NSString stringWithString:card.name];
+        self.name = [NSMutableString stringWithString:card.name];
         self.quantity = [card.quantity copy];
-        self.type = [NSString stringWithString:card.type];
+        self.type = [NSMutableString stringWithString:card.type];
         
         if ([self.type isEqual:@"Creature"]) {
             self.power = card.power;

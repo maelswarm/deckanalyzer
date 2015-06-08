@@ -23,3 +23,17 @@
 - (void)printDeck;
 
 @end
+
+@protocol carddelegate <NSObject>
+
+@required
+- (void)sendBackHand:(Deck *)deck;
+
+@end
+
+@interface Deck() {
+    
+}
+@property (weak) id <carddelegate> delegate;
+
+@end

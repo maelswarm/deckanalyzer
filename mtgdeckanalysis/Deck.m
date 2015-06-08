@@ -16,6 +16,8 @@
 
 @implementation Deck
 
+@synthesize delegate;
+
 - (id)initWithName:(NSString *)str {
     if((self = [super init])) {
         self.name = str;
@@ -42,9 +44,9 @@
 }
 
 - (void)calcRandHandProb {
-    for (int u=0; u<2000; u++) {
+    for (int u=0; u<1000; u++) {
         
-        NSLog(@" ");
+        //NSLog(@" ");
         
         NSMutableArray *occurenceArray = [NSMutableArray new];
         
@@ -55,14 +57,14 @@
         
         for (int i=0; i<7; i++) {
             int randNum = arc4random_uniform(cnt-i);
-            NSLog(@"%@", ((Card *)[tempDeck.content objectAtIndex:randNum]).name);
+            //NSLog(@"%@", ((Card *)[tempDeck.content objectAtIndex:randNum]).name);
             Card *tempCard = [[Card alloc]initWithCard:((Card *)[tempDeck.content objectAtIndex:randNum])];
             [tempHand.content addObject:tempCard];
             [tempDeck.content removeObjectAtIndex:randNum];
             
         }
         
-        NSLog(@" ");
+        //NSLog(@" ");
         
         double numerator = 1.0;
         double denominator = [self factorialLoop:60.0]/([self factorialLoop:7.0]*[self factorialLoop:53.0]);
@@ -88,18 +90,20 @@
             numerator *= (nFact/(rFact*nMinusRFact));
             
         }
-        NSLog(@"Fin Numerator %f", numerator);
-        NSLog(@"Denominator %f", denominator);
+        //NSLog(@"Fin Numerator %f", numerator);
+        //NSLog(@"Denominator %f", denominator);
         probabiltyofhand = numerator/denominator;
+        //NSLog(@"%f", probabiltyofhand);
         
-        if (probabiltyofhand > .000317) {
-            NSLog(@"%f", probabiltyofhand);
+        if (probabiltyofhand > .0001) {
+             NSLog(@"%f", probabiltyofhand);
+            [self.delegate sendBackHand:tempHand];
         }
         
     }
 }
 
--(BOOL)checkForOccurence:(NSString *)str in:(NSMutableArray *)arr {
+- (BOOL)checkForOccurence:(NSString *)str in:(NSMutableArray *)arr {
     for (NSString *tempStr in arr) {
         if ([str isEqualToString:tempStr]) {
             return TRUE;

@@ -7,6 +7,31 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F70EA5CE1B252D5700DFA09E /* MyTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = F70EA5CD1B252D5700DFA09E /* MyTableViewCell.m */; };
+		F70EA5E81B25333200DFA09E /* Akroma's Memorial.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F70EA5D01B25333200DFA09E /* Akroma's Memorial.jpg */; };
+		F70EA5E91B25333200DFA09E /* Bile Blight.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F70EA5D11B25333200DFA09E /* Bile Blight.jpg */; };
+		F70EA5EA1B25333200DFA09E /* Bloodghast.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F70EA5D21B25333200DFA09E /* Bloodghast.jpg */; };
+		F70EA5EB1B25333200DFA09E /* Creakwood Liege.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F70EA5D31B25333200DFA09E /* Creakwood Liege.jpg */; };
+		F70EA5EC1B25333200DFA09E /* Desecration Demon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F70EA5D41B25333200DFA09E /* Desecration Demon.jpg */; };
+		F70EA5ED1B25333200DFA09E /* Doom Blade.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F70EA5D51B25333200DFA09E /* Doom Blade.jpg */; };
+		F70EA5EE1B25333200DFA09E /* Duress.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F70EA5D61B25333200DFA09E /* Duress.jpg */; };
+		F70EA5EF1B25333200DFA09E /* Forest.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F70EA5D71B25333200DFA09E /* Forest.jpg */; };
+		F70EA5F01B25333200DFA09E /* Geralf's Messenger.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F70EA5D81B25333200DFA09E /* Geralf's Messenger.jpg */; };
+		F70EA5F11B25333200DFA09E /* Hero's Downfall.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F70EA5D91B25333200DFA09E /* Hero's Downfall.jpg */; };
+		F70EA5F21B25333200DFA09E /* Infernal Tutor.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F70EA5DA1B25333200DFA09E /* Infernal Tutor.jpg */; };
+		F70EA5F31B25333200DFA09E /* Jungle Hollow.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F70EA5DB1B25333200DFA09E /* Jungle Hollow.jpg */; };
+		F70EA5F41B25333200DFA09E /* Kokusho, the Evening Star.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F70EA5DC1B25333200DFA09E /* Kokusho, the Evening Star.jpg */; };
+		F70EA5F51B25333200DFA09E /* Liliana Vess.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F70EA5DD1B25333200DFA09E /* Liliana Vess.jpg */; };
+		F70EA5F61B25333200DFA09E /* Manamorphose.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F70EA5DE1B25333200DFA09E /* Manamorphose.jpg */; };
+		F70EA5F71B25333200DFA09E /* Sarkhan Vol.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F70EA5DF1B25333200DFA09E /* Sarkhan Vol.jpg */; };
+		F70EA5F81B25333200DFA09E /* Scavenging Ooze.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F70EA5E01B25333200DFA09E /* Scavenging Ooze.jpg */; };
+		F70EA5F91B25333200DFA09E /* Sheoldred, Whispering One.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F70EA5E11B25333200DFA09E /* Sheoldred, Whispering One.jpg */; };
+		F70EA5FA1B25333200DFA09E /* Sorin, Lord of Innistrad.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F70EA5E21B25333200DFA09E /* Sorin, Lord of Innistrad.jpg */; };
+		F70EA5FB1B25333200DFA09E /* Swamp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F70EA5E31B25333200DFA09E /* Swamp.jpg */; };
+		F70EA5FC1B25333200DFA09E /* Sylvan Caryatid.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F70EA5E41B25333200DFA09E /* Sylvan Caryatid.jpg */; };
+		F70EA5FD1B25333200DFA09E /* Temple of Malady.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F70EA5E51B25333200DFA09E /* Temple of Malady.jpg */; };
+		F70EA5FE1B25333200DFA09E /* Thoughtseize.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F70EA5E61B25333200DFA09E /* Thoughtseize.jpg */; };
+		F70EA5FF1B25333200DFA09E /* Thrun, the Last Troll.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F70EA5E71B25333200DFA09E /* Thrun, the Last Troll.jpg */; };
 		F73800661B18232F0018B426 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F73800651B18232F0018B426 /* main.m */; };
 		F73800691B18232F0018B426 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F73800681B18232F0018B426 /* AppDelegate.m */; };
 		F738006C1B18232F0018B426 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F738006B1B18232F0018B426 /* ViewController.m */; };
@@ -30,6 +55,32 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F70EA5CC1B252D5700DFA09E /* MyTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyTableViewCell.h; sourceTree = "<group>"; };
+		F70EA5CD1B252D5700DFA09E /* MyTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyTableViewCell.m; sourceTree = "<group>"; };
+		F70EA5D01B25333200DFA09E /* Akroma's Memorial.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Akroma's Memorial.jpg"; sourceTree = "<group>"; };
+		F70EA5D11B25333200DFA09E /* Bile Blight.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Bile Blight.jpg"; sourceTree = "<group>"; };
+		F70EA5D21B25333200DFA09E /* Bloodghast.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Bloodghast.jpg; sourceTree = "<group>"; };
+		F70EA5D31B25333200DFA09E /* Creakwood Liege.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Creakwood Liege.jpg"; sourceTree = "<group>"; };
+		F70EA5D41B25333200DFA09E /* Desecration Demon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Desecration Demon.jpg"; sourceTree = "<group>"; };
+		F70EA5D51B25333200DFA09E /* Doom Blade.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Doom Blade.jpg"; sourceTree = "<group>"; };
+		F70EA5D61B25333200DFA09E /* Duress.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Duress.jpg; sourceTree = "<group>"; };
+		F70EA5D71B25333200DFA09E /* Forest.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Forest.jpg; sourceTree = "<group>"; };
+		F70EA5D81B25333200DFA09E /* Geralf's Messenger.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Geralf's Messenger.jpg"; sourceTree = "<group>"; };
+		F70EA5D91B25333200DFA09E /* Hero's Downfall.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Hero's Downfall.jpg"; sourceTree = "<group>"; };
+		F70EA5DA1B25333200DFA09E /* Infernal Tutor.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Infernal Tutor.jpg"; sourceTree = "<group>"; };
+		F70EA5DB1B25333200DFA09E /* Jungle Hollow.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Jungle Hollow.jpg"; sourceTree = "<group>"; };
+		F70EA5DC1B25333200DFA09E /* Kokusho, the Evening Star.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Kokusho, the Evening Star.jpg"; sourceTree = "<group>"; };
+		F70EA5DD1B25333200DFA09E /* Liliana Vess.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Liliana Vess.jpg"; sourceTree = "<group>"; };
+		F70EA5DE1B25333200DFA09E /* Manamorphose.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Manamorphose.jpg; sourceTree = "<group>"; };
+		F70EA5DF1B25333200DFA09E /* Sarkhan Vol.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Sarkhan Vol.jpg"; sourceTree = "<group>"; };
+		F70EA5E01B25333200DFA09E /* Scavenging Ooze.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Scavenging Ooze.jpg"; sourceTree = "<group>"; };
+		F70EA5E11B25333200DFA09E /* Sheoldred, Whispering One.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Sheoldred, Whispering One.jpg"; sourceTree = "<group>"; };
+		F70EA5E21B25333200DFA09E /* Sorin, Lord of Innistrad.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Sorin, Lord of Innistrad.jpg"; sourceTree = "<group>"; };
+		F70EA5E31B25333200DFA09E /* Swamp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Swamp.jpg; sourceTree = "<group>"; };
+		F70EA5E41B25333200DFA09E /* Sylvan Caryatid.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Sylvan Caryatid.jpg"; sourceTree = "<group>"; };
+		F70EA5E51B25333200DFA09E /* Temple of Malady.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Temple of Malady.jpg"; sourceTree = "<group>"; };
+		F70EA5E61B25333200DFA09E /* Thoughtseize.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Thoughtseize.jpg; sourceTree = "<group>"; };
+		F70EA5E71B25333200DFA09E /* Thrun, the Last Troll.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Thrun, the Last Troll.jpg"; sourceTree = "<group>"; };
 		F73800601B18232F0018B426 /* mtgdeckanalysis.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = mtgdeckanalysis.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F73800641B18232F0018B426 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F73800651B18232F0018B426 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -68,6 +119,37 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		F70EA5CF1B25333200DFA09E /* mtgdeckimg */ = {
+			isa = PBXGroup;
+			children = (
+				F70EA5D01B25333200DFA09E /* Akroma's Memorial.jpg */,
+				F70EA5D11B25333200DFA09E /* Bile Blight.jpg */,
+				F70EA5D21B25333200DFA09E /* Bloodghast.jpg */,
+				F70EA5D31B25333200DFA09E /* Creakwood Liege.jpg */,
+				F70EA5D41B25333200DFA09E /* Desecration Demon.jpg */,
+				F70EA5D51B25333200DFA09E /* Doom Blade.jpg */,
+				F70EA5D61B25333200DFA09E /* Duress.jpg */,
+				F70EA5D71B25333200DFA09E /* Forest.jpg */,
+				F70EA5D81B25333200DFA09E /* Geralf's Messenger.jpg */,
+				F70EA5D91B25333200DFA09E /* Hero's Downfall.jpg */,
+				F70EA5DA1B25333200DFA09E /* Infernal Tutor.jpg */,
+				F70EA5DB1B25333200DFA09E /* Jungle Hollow.jpg */,
+				F70EA5DC1B25333200DFA09E /* Kokusho, the Evening Star.jpg */,
+				F70EA5DD1B25333200DFA09E /* Liliana Vess.jpg */,
+				F70EA5DE1B25333200DFA09E /* Manamorphose.jpg */,
+				F70EA5DF1B25333200DFA09E /* Sarkhan Vol.jpg */,
+				F70EA5E01B25333200DFA09E /* Scavenging Ooze.jpg */,
+				F70EA5E11B25333200DFA09E /* Sheoldred, Whispering One.jpg */,
+				F70EA5E21B25333200DFA09E /* Sorin, Lord of Innistrad.jpg */,
+				F70EA5E31B25333200DFA09E /* Swamp.jpg */,
+				F70EA5E41B25333200DFA09E /* Sylvan Caryatid.jpg */,
+				F70EA5E51B25333200DFA09E /* Temple of Malady.jpg */,
+				F70EA5E61B25333200DFA09E /* Thoughtseize.jpg */,
+				F70EA5E71B25333200DFA09E /* Thrun, the Last Troll.jpg */,
+			);
+			path = mtgdeckimg;
+			sourceTree = "<group>";
+		};
 		F73800571B18232F0018B426 = {
 			isa = PBXGroup;
 			children = (
@@ -93,6 +175,8 @@
 				F73800681B18232F0018B426 /* AppDelegate.m */,
 				F738006A1B18232F0018B426 /* ViewController.h */,
 				F738006B1B18232F0018B426 /* ViewController.m */,
+				F70EA5CC1B252D5700DFA09E /* MyTableViewCell.h */,
+				F70EA5CD1B252D5700DFA09E /* MyTableViewCell.m */,
 				F762401A1B1A6CC90076762E /* Deck.h */,
 				F762401B1B1A6CC90076762E /* Deck.m */,
 				F76240171B1A6C710076762E /* Card.h */,
@@ -108,6 +192,7 @@
 		F73800631B18232F0018B426 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				F70EA5CF1B25333200DFA09E /* mtgdeckimg */,
 				F73800641B18232F0018B426 /* Info.plist */,
 				F73800651B18232F0018B426 /* main.m */,
 				F762401D1B1A71EA0076762E /* card.plist */,
@@ -212,10 +297,34 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F70EA5EF1B25333200DFA09E /* Forest.jpg in Resources */,
+				F70EA5E81B25333200DFA09E /* Akroma's Memorial.jpg in Resources */,
 				F738006F1B18232F0018B426 /* Main.storyboard in Resources */,
+				F70EA5F61B25333200DFA09E /* Manamorphose.jpg in Resources */,
+				F70EA5F51B25333200DFA09E /* Liliana Vess.jpg in Resources */,
+				F70EA5FF1B25333200DFA09E /* Thrun, the Last Troll.jpg in Resources */,
+				F70EA5FC1B25333200DFA09E /* Sylvan Caryatid.jpg in Resources */,
+				F70EA5EA1B25333200DFA09E /* Bloodghast.jpg in Resources */,
+				F70EA5FD1B25333200DFA09E /* Temple of Malady.jpg in Resources */,
+				F70EA5FE1B25333200DFA09E /* Thoughtseize.jpg in Resources */,
+				F70EA5F41B25333200DFA09E /* Kokusho, the Evening Star.jpg in Resources */,
+				F70EA5F21B25333200DFA09E /* Infernal Tutor.jpg in Resources */,
+				F70EA5EE1B25333200DFA09E /* Duress.jpg in Resources */,
+				F70EA5F81B25333200DFA09E /* Scavenging Ooze.jpg in Resources */,
+				F70EA5FA1B25333200DFA09E /* Sorin, Lord of Innistrad.jpg in Resources */,
+				F70EA5ED1B25333200DFA09E /* Doom Blade.jpg in Resources */,
 				F73800741B18232F0018B426 /* LaunchScreen.xib in Resources */,
+				F70EA5E91B25333200DFA09E /* Bile Blight.jpg in Resources */,
+				F70EA5F11B25333200DFA09E /* Hero's Downfall.jpg in Resources */,
+				F70EA5F31B25333200DFA09E /* Jungle Hollow.jpg in Resources */,
+				F70EA5FB1B25333200DFA09E /* Swamp.jpg in Resources */,
+				F70EA5F71B25333200DFA09E /* Sarkhan Vol.jpg in Resources */,
+				F70EA5F91B25333200DFA09E /* Sheoldred, Whispering One.jpg in Resources */,
 				F762401E1B1A71EA0076762E /* card.plist in Resources */,
+				F70EA5EB1B25333200DFA09E /* Creakwood Liege.jpg in Resources */,
+				F70EA5F01B25333200DFA09E /* Geralf's Messenger.jpg in Resources */,
 				F73800711B18232F0018B426 /* Images.xcassets in Resources */,
+				F70EA5EC1B25333200DFA09E /* Desecration Demon.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -236,6 +345,7 @@
 				F762401C1B1A6CC90076762E /* Deck.m in Sources */,
 				F738006C1B18232F0018B426 /* ViewController.m in Sources */,
 				F73800691B18232F0018B426 /* AppDelegate.m in Sources */,
+				F70EA5CE1B252D5700DFA09E /* MyTableViewCell.m in Sources */,
 				F73800661B18232F0018B426 /* main.m in Sources */,
 				F76240191B1A6C710076762E /* Card.m in Sources */,
 			);
